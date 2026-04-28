@@ -1,6 +1,6 @@
 # 📊 ShopEasy Marketing Analytics
 
-Projet d'analyse marketing réalisé avec **Power BI**, **SQL Server** et **Python** — M1 IBD, Université Paris 8 — 2025/2026.
+Projet personnel d'analyse marketing réalisé avec **Power BI**, **SQL Server** et **Python** 
 
 ---
 
